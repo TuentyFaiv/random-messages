@@ -14,7 +14,15 @@
   "author": "Tonalli López <contact@tuentyfaiv.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuentyFaiv/random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TuentyFaiv/random-messages/issues"
+  },
+  "homepage": "https://github.com/TuentyFaiv/random-messages#readme"
 }
